@@ -70,7 +70,7 @@ ipa_project/
 | `unit6_segmentation.png`                                                      | Otsu, morphological cleanup, region growing, K-means                                              |
 | `unit7_*.csv`                                                                 | Area, perimeter, eccentricity, solidity; GLCM contrast/homogeneity/energy; LBP entropy            |
 
-## Things to be aware of (state these in your report)
+## Things to be aware of
 
 - **Huffman table overhead** is estimated at 24 bits per entry (16-bit symbol + 8-bit length); real JPEG headers differ slightly.
 - **Wiener K and CLS gamma** in `unit4` are picked by best PSNR against the original (an oracle). In practice K is estimated from the noise variance.
@@ -93,7 +93,6 @@ ipa_project/
 - Add 4:2:0 vs 4:4:4 and block-size (4×4, 16×16) experiments
 - Salt-and-pepper restoration comparison for Unit IV (median vs Wiener)
 - Arithmetic coding or a JPEG2000 (wavelet) comparison
-
 
 ## Bundled default input images
 
