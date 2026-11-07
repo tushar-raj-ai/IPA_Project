@@ -1,0 +1,5 @@
+stage,bits_per_pixel
+Raw 8-bit,8.0
+"Image entropy (lower bound, no transform)",7.116
+DCT+quant+RLE+Huffman (payload only),0.739
+... incl. Huffman table (279 entries),0.841

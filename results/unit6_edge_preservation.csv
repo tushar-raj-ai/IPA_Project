@@ -1,0 +1,4 @@
+quality,canny_edge_F1_vs_original,sobel_edge_F1
+10,0.965,0.981
+50,0.993,0.996
+90,0.993,1.0

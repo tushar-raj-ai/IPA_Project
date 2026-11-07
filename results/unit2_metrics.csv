@@ -1,0 +1,8 @@
+method,value
+Entropy (bits/pixel): low-contrast input,5.393
+Entropy: hist. equalization,5.343
+Entropy: CLAHE,7.54
+PSNR (dB): salt & pepper noisy,17.81
+PSNR: box 3x3,24.95
+PSNR: Gaussian 5x5,25.26
+PSNR: median 3x3,31.06

@@ -1,0 +1,3 @@
+chroma_subsampling_420,compression_ratio,psnr_db
+False,14.4,31.84
+True,17.66,30.14
